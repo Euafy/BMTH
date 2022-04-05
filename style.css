@@ -1,0 +1,64 @@
+
+.spiru, .color {
+    border: 5px solid rgb(15, 253, 7);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+.spiru {
+    opacity: 0.7;
+    left:75%;
+    position:absolute;
+    margin-right: 10%;
+    top: 13.4%;
+    height:25%;
+    width: 20%;
+}
+.spiru:hover {
+    opacity: 1;
+}
+.ahegao {
+    position:absolute;
+    height:6%;
+    top:-0%;
+    left:97%;
+    opacity:0.0%
+}
+.ahegao:hover {
+    opacity:1;
+}
+.color {
+    color: white;
+    font-family: calibri;
+    background-color: rgb(77, 73, 73);
+    width: 60%;
+    font-size: 130%;
+    padding-left:0.5%;
+    padding-right: 0.5%;
+    padding-bottom: 0.5%;
+}
+body {
+    background-color: #808080;
+}
+table {
+    font-family: calibri;
+    margin-left: 17%;
+    width:60%;
+
+    color:rgb(252, 252, 252)
+}
+td, th {
+    border: 5px solid rgb(15, 253, 7);
+    color:white;
+    background-color: rgb(124, 112, 112);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-spacing: 0px;
+}
+.header {
+    line-height:0px;
+}
+a {
+    color:rgb(9, 180, 247);
+
+}

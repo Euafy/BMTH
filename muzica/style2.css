@@ -1,0 +1,122 @@
+.back {
+    position:absolute;
+    margin-top:.5%;
+    margin-left:1%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #808080;
+    color:white;
+    border-radius: 10px;
+    cursor:pointer;
+    padding: 0.3%;
+    object-fit: cover;
+}
+.forward {
+    position:absolute;
+    margin-top:.5%;
+    margin-left:95%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #808080;
+    color:white;
+    border-radius: 10px;
+    cursor:pointer;
+    padding: 0.3%;
+    object-fit: cover;
+}
+img, .box_1, .big_box, .box_2, .box_3, iframe, .box_4, .box_5 {
+    border: 5px solid rgb(249, 253, 7);
+    border-radius:20px;
+    
+}
+img {
+    position:absolute;
+    height:25%;
+    width:20%;
+}
+.image1 {
+    left:79.2%;
+    margin-right: 10%;
+    top: 15%;
+}
+.image2 {
+    left:58.48%;
+    top:15%;
+}
+.image3 {
+    top:45%;
+    width: 19.8%;
+}
+.image4 {
+    top:45%;
+    left: 21%;
+    width: 19.8%;
+}
+.big_box, .box_1, .box_2, .box_3, .box_4, .box_5 {
+    color: rgb(255, 255, 255);
+    font-family: calibri;
+    background-color: rgb(77, 73, 73);
+    font-size: 130%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+body {
+    background-color: #808080;
+}
+.box_1 {
+    text-align:center;
+    width: 97.8%;
+    position:fixed;
+    top:0%
+}
+.big_box {
+    margin-top: 6.9%;
+    width:29.6%;
+    position:absolute;
+}
+.box_2 {
+    width:24.9%;
+    margin-left:31.4%;
+    margin-top: 6.9%;
+    position:absolute;
+
+}
+.box_3 {
+    position:absolute;
+    margin-top: 21.3%;
+    margin-left: 41.3%;
+    width:24.9%;
+    height:21.2%
+}
+.box_4 {
+    position:absolute;
+    width:29.8%;
+    margin-top: 21.3%;
+    margin-left:68%;
+}
+.box_5 {
+    width:15%;
+    height:25.1%;
+    position:absolute;
+    margin-left:41.4%;
+    margin-top:35%;
+    padding-top:0.35%;
+    padding-bottom: 0.35%;
+}
+iframe {
+    margin-top:35%;
+    position:absolute;
+}
+.vid2 {
+    margin-left:20.5%;
+
+}
+.vid3 {
+   margin-left:58.5%;
+}
+.vid4 {
+    margin-left:79%;
+}
+a {
+    color:rgb(9, 180, 247);
+
+}
+
